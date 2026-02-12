@@ -1,0 +1,7 @@
+{
+  "name": "Toddler Talk",
+  "description": "A realistic 2-year-old chatbot simulator with dynamic image generation and voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
